@@ -1,1 +1,1 @@
-# terraform-azure-networking-demo
+# terraform-azure-networking-demo-project
